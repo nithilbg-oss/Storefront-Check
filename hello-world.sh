@@ -1,8 +1,7 @@
-
 #!/bin/bash
 
 echo "=================================="
 echo "Storefront Application Check"
-echo "Application is running successfully!"
-echo "Build executed successfully!"
+echo "Updated application is running successfully!"
+echo "New build executed successfully!"
 echo "=================================="
